@@ -1,0 +1,13 @@
+.section-boundary {
+  padding: 96px 0;
+}
+
+.section-middle {
+  padding-bottom: 120px;
+}
+
+@media screen and (min-width: 1158px) {
+  .section-boundary {
+    padding: 120px 0;
+  }
+}

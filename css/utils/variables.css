@@ -1,0 +1,14 @@
+:root {
+  --iris: #4d5ae5;
+  --navyblue: #2e2f42;
+  --navyblue-modal: rgba(46, 47, 66, 0.4);
+  --cloud: #f4f4fd;
+  --slate: #434455;
+  --ocean: #404bbf;
+  --white: #ffffff;
+  --cornflower: #e7e9fc;
+  --light-slate: #8e8f99;
+  --dairy: #fcfcfc;
+  --green: #31d0aa;
+  --hover-duration-func: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
